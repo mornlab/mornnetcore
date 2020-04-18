@@ -1,0 +1,2 @@
+# mornnetcore
+Dotnet core version.
